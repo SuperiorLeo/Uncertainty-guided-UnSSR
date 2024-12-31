@@ -1,0 +1,16 @@
+
+name: ARAD_HS_0451_clean.png idx: tensor([5, 3, 7])
+name: ARAD_HS_0453_clean.png idx: tensor([11, 10, 12])
+name: ARAD_HS_0455_clean.png idx: tensor([21, 22, 10])
+name: ARAD_HS_0456_clean.png idx: tensor([6, 7, 4])
+name: ARAD_HS_0457_clean.png idx: tensor([ 4, 13, 12])
+name: ARAD_HS_0459_clean.png idx: tensor([ 6,  4, 12])
+name: ARAD_HS_0462_clean.png idx: tensor([ 6,  8, 10])
+name: ARAD_HS_0463_clean.png idx: tensor([22, 15, 18])
+name: ARAD_HS_0464_clean.png idx: tensor([ 6, 11, 10])
+name: ARAD_HS_0465_clean.png idx: tensor([5, 6, 7])
+mrae: 0.1449139433849023
+rmse: 0.04232112436109074
+psnr: 31.377047262630363
+ssim: 0.9726123049184692
+sam: 4.873624915734174
