@@ -1,6 +1,8 @@
 # Uncertainty-guided Discriminative Priors Mining for Flexible Unsupervised Spectral Reconstruction
 [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=ao),  [Yihong Leng](https://scholar.google.com/citations?user=eBel2B8AAAAJ&hl=en&oi=ao), [Rui Song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](), and [Qian Du]() 
 
+⭐ Our work has been accepted by IEEE Transactions on Neural Networks and Learning Systems.⭐
+
 <hr />
 
 > **Abstract:** Existing supervised spectral reconstruction (SR) methods adopt paired RGB images and hyperspectral images (HSIs) to drive the overall paradigms. Nonetheless, in practice, ``paired'' requires higher device requirements like specific well-calibrated dual cameras or more complex and exact registration processes among images with different time phases, widths, and spatial resolution. To tackle the above challenges, we propose a flexible uncertainty-aware unsupervised SR paradigm, which dynamically establishes the forceful and potent constraints with RGBs for driving unsupervised learning. As a specific plug-and-play tail in our paradigm, the Uncertainty-aware Saliency Alignment Module (USAM) calculates pixel- and spectral-wise information entropy for uncertainty estimation, which attempts to represent the corresponding reflectivity or radiance to the light among different objects in various scenes, forcing the paradigm to adaptively explore the scene-agnostic prominent features.
@@ -12,8 +14,6 @@
 >
 > We also conducted nine existing SR methods in our unsupervised paradigm to recover HSIs without any manual intervention, which proves the generality of our paradigm to some extent.
 <hr />
-
-⭐ Our work has been accepted by IEEE Transactions on Neural Networks and Learning Systems.⭐
 
 ## Task Introduction
 
@@ -44,7 +44,9 @@ We propose a framework for unsupervised hyperspectral reconstruction. You can ca
 
 <details open>
 <summary><b>Supported algorithms:</b></summary>
+
 * [x] [LTRN](https://github.com/renweidian/LTRN) (Tnnls 2024)
+
 * [x] [SPECAT](https://github.com/THU-luvision/SPECAT) (CVPR 2024)
 * [x] [MFormer](https://github.com/SuperiorLeo/MFormer-Taming-Masked-Transformer-for-Unsupervised-Spectral-Reconstruction)(TGRS 2023)
 * [x] [SAUNet](https://github.com/hustvl/SAUNet) (2023)
@@ -56,6 +58,7 @@ We propose a framework for unsupervised hyperspectral reconstruction. You can ca
 * [x] [AWAN](https://arxiv.org/abs/2005.09305) (CVPRW 2020)
 * [x] [HRNet](https://arxiv.org/abs/2005.04703) (CVPRW 2020)
 * [x] [SUSR](https://ieeexplore.ieee.org/document/9710095/) (ICCV 2019)
+
 
 ## Train
 #### 1. **Created Environment.**
