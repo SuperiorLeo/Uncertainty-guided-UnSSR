@@ -1,5 +1,5 @@
 # Uncertainty-guided Discriminative Priors Mining for Flexible Unsupervised Spectral Reconstruction
-[Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=ao),  [Yihong Leng](https://scholar.google.com/citations?user=eBel2B8AAAAJ&hl=en&oi=ao), [Rui Song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](), and [Qian Du]() 
+ [Yihong Leng](https://scholar.google.com/citations?user=eBel2B8AAAAJ&hl=en&oi=ao), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=ao),  [Rui Song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](), and [Qian Du]() 
 
 ⭐ Our work has been accepted by IEEE Transactions on Neural Networks and Learning Systems.⭐
 
