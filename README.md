@@ -49,7 +49,7 @@ We propose a framework for unsupervised hyperspectral reconstruction. You can ca
 
 * [x] [SPECAT](https://github.com/THU-luvision/SPECAT) (CVPR 2024)
 * [x] [MFormer](https://github.com/SuperiorLeo/MFormer-Taming-Masked-Transformer-for-Unsupervised-Spectral-Reconstruction)(TGRS 2023)
-* [x] [SAUNet](https://github.com/hustvl/SAUNet) (2023)
+* [x] [SAUNet](https://github.com/hustvl/SAUNet) (ACM 2023)
 * [x] [HDNet](https://arxiv.org/abs/2111.07910) (CVPR 2022)
 * [x] [Restormer](https://github.com/swz30/Restormer) (CVPR2022)
 * [x] [MST++](https://arxiv.org/abs/2111.07910) (CVPRW 2022)
@@ -93,9 +93,12 @@ python main.py
 The data generated during training will be recorded in `/results/`.
 ## Test
 ```shell
-python test_model1.py
+python test_model1_cave.py
 ```
-- Our trainable parameters have been put in the fold ''pth''.
+- Our trainable parameters have been put in the fold ''pth''. Note that the validation HSIs are as follows:
+- balloons_ms.mat egyptian_statue_ms.mat fake_and_real_lemons_ms.mat fake_and_real_tomatoes_ms.mat real_and_fake_apples_ms.mat
+- thread_spools_ms.mat clay_ms fake_and_real_beers_ms fake_and_real_peppers_ms hairs_ms real_and_fake_peppers_ms stuffed_toys_ms
+
 
 ## Citation
 If you find this code helpful, please kindly cite:
