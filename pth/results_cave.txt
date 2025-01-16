@@ -1,0 +1,27 @@
+79:
+rmse: 0.034399101665864386
+psnr: 32.52526839574178
+ssim: 0.9466221186568835
+sam: 7.686092972755432
+100£º
+rmse: 0.03423104854300618
+psnr: 32.583446184794106
+ssim: 0.9463122628203271
+sam: 7.660822192827861
+
+name: balloons_ms.png idx: tensor([29, 16, 14])
+name: clay_ms.png idx: tensor([13, 25, 24])
+name: egyptian_statue_ms.png idx: tensor([15, 30, 29])
+name: fake_and_real_beers_ms.png idx: tensor([ 6, 11,  1])
+name: fake_and_real_lemons_ms.png idx: tensor([16, 15, 14])
+name: fake_and_real_peppers_ms.png idx: tensor([16, 15,  3])
+name: fake_and_real_tomatoes_ms.png idx: tensor([26, 20, 19])
+name: hairs_ms.png idx: tensor([23, 20, 19])
+name: real_and_fake_apples_ms.png idx: tensor([15, 30, 23])
+name: real_and_fake_peppers_ms.png idx: tensor([4, 6, 7])
+name: stuffed_toys_ms.png idx: tensor([25, 16, 21])
+name: thread_spools_ms.png idx: tensor([12, 23, 19])
+rmse: 0.034220313342909016
+psnr: 32.58620262145996
+ssim: 0.946340740940416
+sam: 7.687040487925212
