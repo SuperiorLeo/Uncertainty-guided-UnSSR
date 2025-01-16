@@ -9,7 +9,6 @@ import cv2
 # from architecture_spe.AWAN import AWAN
 # from architecture_spe.hrnet import SGN
 # from architecture_spe.model2021 import reconnet
-# from architecture.SFFormer23_fore_back import SFFormer
 # from architecture_spe.SAUNet import SAUNet2
 # from architecture_spe.SPECAT import SPECAT
 from architecture_spe.UnSSR import SFFormer
