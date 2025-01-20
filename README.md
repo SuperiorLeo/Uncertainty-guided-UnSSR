@@ -105,16 +105,13 @@ If you find this code helpful, please kindly cite:
 ```shell
 # If the whole unsupervised SR can be leveraged, call it UnSSR.
 # If the network is helpful, call it SFFormer.
-@ARTICLE{UnSSR,
+@article{leng2025uncertainty,
+  title={Uncertainty-Guided Discriminative Priors Mining for Flexible Unsupervised Spectral Reconstruction},
   author={Leng, Yihong and Li, Jiaojiao and Song, Rui and Li, Yunsong and Du, Qian},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Uncertainty-Guided Discriminative Priors Mining for Flexible Unsupervised Spectral Reconstruction}, 
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2025},
-  volume={},
-  number={},
-  pages={1-14},
-  keywords={Image reconstruction;Semantics;Spatial resolution;Robustness;Hyperspectral imaging;Feature extraction;Excavation;Visualization;Uncertainty;Narrowband;Rank;semantic priors;spectral reconstruction (SR);structural representation;uncertainty;unsupervised learning},
-  doi={10.1109/TNNLS.2025.3526159}}
+  publisher={IEEE}
+}
 
 
 # MFormer
